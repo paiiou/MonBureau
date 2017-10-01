@@ -1,4 +1,4 @@
-# MonBureau / MyDesktop
+# Mon Bureau / MyD esktop
 Pourquoi ce dépôt ?
 
 Je voudrais utiliser LXQt en tant qu'environnement graphique de mon ordinateur Linux.
