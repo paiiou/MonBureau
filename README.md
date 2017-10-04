@@ -1,5 +1,5 @@
 # Mon Bureau / My Desktop
-#" Pourquoi ce dépôt ?
+## Pourquoi ce dépôt ?
 
 Je voudrais utiliser LXQt en tant qu'environnement graphique de mon ordinateur Linux.
 J'utilise la distribution Mageia, après avoir débuté avec Mandrake, puis Mandriva.
