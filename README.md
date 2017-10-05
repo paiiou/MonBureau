@@ -5,9 +5,8 @@ J'utilise la distribution Mageia, après avoir débuté avec Mandrake, puis Mand
 La version lxqt de Mageia ne prens pas en compte les plus récentes traductions françaises et compend oncore des restes de Gtk.
 Par ailleurs, il manque également quelques applications simples, n'utilisant QUE le cadre Qt.
 En conséquence, j'ai reconstruit les paquets rpm de lxqt-0.11.1 ainsi que de quelques applications.
-
 ## L'organisation du dépôt
-
+[Les applications se trouvent dans la rubrique : ] (MesAppliQt)
 
 ## Why this repository?
 I would like to use LXQt as a graphical environment of my Linux computer.
